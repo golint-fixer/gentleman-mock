@@ -1,9 +1,9 @@
 package mock
 
 import (
-	"gopkg.in/h2non/gentleman.v0/context"
-	"gopkg.in/h2non/gentleman.v0/plugin"
-	"gopkg.in/h2non/gock.v0"
+	"gopkg.in/h2non/gentleman.v1/context"
+	"gopkg.in/h2non/gentleman.v1/plugin"
+	"gopkg.in/h2non/gock.v1"
 )
 
 // Plugin exports the mock plugin

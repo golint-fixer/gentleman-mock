@@ -1,9 +1,10 @@
 package mock
 
 import (
-	"github.com/nbio/st"
-	"gopkg.in/h2non/gentleman.v0"
 	"testing"
+
+	"github.com/nbio/st"
+	"gopkg.in/h2non/gentleman.v1"
 )
 
 func TestMock(t *testing.T) {

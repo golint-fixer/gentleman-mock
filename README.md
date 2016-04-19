@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-go get -u gopkg.in/h2non/gentleman-mock.v0
+go get -u gopkg.in/h2non/gentleman-mock.v1
 ```
 
 ## API
@@ -19,8 +19,8 @@ package main
 
 import (
   "fmt"
-  "gopkg.in/h2non/gentleman-mock.v0"
-  "gopkg.in/h2non/gentleman.v0"
+  "gopkg.in/h2non/gentleman-mock.v1"
+  "gopkg.in/h2non/gentleman.v1"
 )
 
 func main() {
