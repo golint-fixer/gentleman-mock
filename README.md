@@ -10,8 +10,8 @@ go get -u gopkg.in/h2non/gentleman-mock.v2
 
 ## Versions
 
-- **[v1](/tree/v1)** - First version, uses `gentleman@v1` and `gock@v1`.
-- **[v2](/tree/master)** - Latest version, uses `gentleman@v2` and `gock@v1`.
+- **[v1](https://github.com/h2non/gentleman-mock/tree/v1)** - First version, uses `gentleman@v1` and `gock@v1`.
+- **[v2](https://github.com/h2non/gentleman-mock/tree/master)** - Latest version, uses `gentleman@v2` and `gock@v1`.
 
 ## API
 
