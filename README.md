@@ -5,8 +5,13 @@
 ## Installation
 
 ```bash
-go get -u gopkg.in/h2non/gentleman-mock.v1
+go get -u gopkg.in/h2non/gentleman-mock.v2
 ```
+
+## Versions
+
+- **[v1](/tree/v1)** - First version, uses `gentleman@v1` and `gock@v1`.
+- **[v2](/tree/master)** - Latest version, uses `gentleman@v2` and `gock@v1`.
 
 ## API
 
@@ -19,8 +24,9 @@ package main
 
 import (
   "fmt"
-  "gopkg.in/h2non/gentleman-mock.v1"
-  "gopkg.in/h2non/gentleman.v1"
+
+  "gopkg.in/h2non/gentleman.v2"
+  "gopkg.in/h2non/gentleman-mock.v2"
 )
 
 func main() {
@@ -63,6 +69,6 @@ func main() {
 }
 ```
 
-## License 
+## License
 
 MIT - Tomas Aparicio
